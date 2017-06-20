@@ -1,0 +1,14 @@
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\bin\Debug\wpfObserver.exe.config
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\wpfObserver.csprojResolveAssemblyReference.cache
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\MainWindow.g.cs
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\App.g.cs
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\wpfObserver_MarkupCompile.cache
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\wpfObserver_MarkupCompile.lref
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\bin\Debug\wpfObserver.exe
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\bin\Debug\wpfObserver.pdb
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\MainWindow.baml
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\wpfObserver.g.resources
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\wpfObserver.Properties.Resources.resources
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\wpfObserver.csproj.GenerateResource.Cache
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\wpfObserver.exe
+C:\Users\emrodriguez\Documents\projects\flotsam\wpfObserver\wpfObserver\obj\Debug\wpfObserver.pdb
