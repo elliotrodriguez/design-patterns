@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "singleton", "singleton\singleton.csproj", "{0FAD114C-3947-4DDE-BC5D-C64BEED26890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "singleton.tests", "NUnitTestProject1\singleton.tests.csproj", "{067456C0-086C-46A8-B37F-1405717B7BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "singleton.console", "singleton.console\singleton.console.csproj", "{9A8A1DF1-64C9-4739-BC7B-DC4FB2C8959A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FAD114C-3947-4DDE-BC5D-C64BEED26890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FAD114C-3947-4DDE-BC5D-C64BEED26890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FAD114C-3947-4DDE-BC5D-C64BEED26890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FAD114C-3947-4DDE-BC5D-C64BEED26890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A8A1DF1-64C9-4739-BC7B-DC4FB2C8959A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A8A1DF1-64C9-4739-BC7B-DC4FB2C8959A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A8A1DF1-64C9-4739-BC7B-DC4FB2C8959A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A8A1DF1-64C9-4739-BC7B-DC4FB2C8959A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
